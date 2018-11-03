@@ -10,7 +10,6 @@ public class PlayerController : MonoBehaviour {
     public int extraJumps;
     private int extraJumpsMax;
 
-
     private Rigidbody2D rb;
 
     private bool facingRight = true;
@@ -37,12 +36,15 @@ public class PlayerController : MonoBehaviour {
 
         if (isGrounded && moveInput != 0)
         {
+            animator.SetBool("isFalling", false);
             animator.SetBool("isRunning", true);
         }
         else if (isGrounded && moveInput == 0)
         {
+            animator.SetBool("isFalling", false);
             animator.SetBool("isRunning", false);
         }
+        
 
         if (!facingRight && moveInput > 0)
         { Flip(); }
@@ -54,9 +56,13 @@ public class PlayerController : MonoBehaviour {
     {
         if (isGrounded == true)
         {
-            animator.SetBool("isGrounded", true);
-            animator.SetBool("isJumping", false);
+            if (animator.GetBool("isJumping"))
+            { animator.SetBool("isJumping", false); }  
             extraJumps = extraJumpsMax;
+        }
+        else
+        {
+            Falling(true);
         }
 
         if ((Input.GetButtonDown("Jump") && extraJumps > 0))
@@ -72,9 +78,15 @@ public class PlayerController : MonoBehaviour {
 
     void Jump()
     {
-        animator.SetBool("isGrounded", false);
         animator.SetBool("isJumping", true);
         rb.velocity = Vector2.up * jumpForce;
+    }
+
+    void Falling(bool active)
+    {
+        animator.SetBool("isJumping", !active);
+        animator.SetBool("isFalling", active);
+        print("Falling = " + active);
     }
 
     void Flip()
