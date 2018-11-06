@@ -55,9 +55,10 @@ public class PlayerController : MonoBehaviour {
         if (isGrounded == true)
         {
             animator.SetBool("isGrounded", true);
-            animator.SetBool("isJumping", false);
             extraJumps = extraJumpsMax;
         }
+        else
+        { animator.SetBool("isGrounded", false); }
 
         if ((Input.GetButtonDown("Jump") && extraJumps > 0))
         {
@@ -72,17 +73,14 @@ public class PlayerController : MonoBehaviour {
 
     void Jump()
     {
-        animator.SetBool("isGrounded", false);
-        animator.SetBool("isJumping", true);
+        animator.SetTrigger("isJumping");
         rb.velocity = Vector2.up * jumpForce;
     }
 
     void Flip()
     {
         facingRight = !facingRight;
-        Vector3 Scaler = transform.localScale;
-        Scaler.x *= -1;
-        transform.localScale = Scaler;
+        transform.Rotate(0f, 180f, 0f);
     }
 
 }

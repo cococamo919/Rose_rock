@@ -128,7 +128,7 @@ GameObject:
   - component: {fileID: 113074702}
   - component: {fileID: 113074705}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Peggy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -209,6 +209,8 @@ Transform:
   m_LocalScale: {x: 4, y: 4, z: 1}
   m_Children:
   - {fileID: 2123834581}
+  - {fileID: 2111402641}
+  - {fileID: 1482521089}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -231,7 +233,7 @@ MonoBehaviour:
   checkRadius: 0.25
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
 --- !u!50 &113074703
 Rigidbody2D:
   serializedVersion: 4
@@ -286,14 +288,24 @@ MonoBehaviour:
     abilitySprite: {fileID: 0}
     ability: {fileID: 0}
     abilityCooldown: 0
+    spawnInt: 0
     abilityStack: 0
     isDisabled: 0
   abilities:
+  - abilityName: Fire
+    abilityDescription: Fire the gun.
+    abilitySprite: {fileID: 0}
+    ability: {fileID: 1505930114650904, guid: 27bd327c8be91874fb1c2d82a33327af, type: 2}
+    abilityCooldown: 0.1
+    spawnInt: 16
+    abilityStack: 16
+    isDisabled: 0
   - abilityName: 
     abilityDescription: 
     abilitySprite: {fileID: 0}
     ability: {fileID: 0}
     abilityCooldown: 0
+    spawnInt: 0
     abilityStack: 0
     isDisabled: 0
   - abilityName: 
@@ -301,6 +313,7 @@ MonoBehaviour:
     abilitySprite: {fileID: 0}
     ability: {fileID: 0}
     abilityCooldown: 0
+    spawnInt: 0
     abilityStack: 0
     isDisabled: 0
   - abilityName: 
@@ -308,15 +321,11 @@ MonoBehaviour:
     abilitySprite: {fileID: 0}
     ability: {fileID: 0}
     abilityCooldown: 0
+    spawnInt: 0
     abilityStack: 0
     isDisabled: 0
-  - abilityName: 
-    abilityDescription: 
-    abilitySprite: {fileID: 0}
-    ability: {fileID: 0}
-    abilityCooldown: 0
-    abilityStack: 0
-    isDisabled: 0
+  firePoint: {fileID: 2111402641}
+  alternateFirePoint: {fileID: 0}
 --- !u!1 &161897153
 GameObject:
   m_ObjectHideFlags: 0
@@ -326,7 +335,7 @@ GameObject:
   m_Component:
   - component: {fileID: 161897155}
   - component: {fileID: 161897154}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Background Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -401,7 +410,7 @@ GameObject:
   m_Component:
   - component: {fileID: 342659343}
   - component: {fileID: 342659344}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -458,7 +467,7 @@ GameObject:
   m_Component:
   - component: {fileID: 701979601}
   - component: {fileID: 701979600}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Background Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -524,6 +533,47 @@ Transform:
   m_Father: {fileID: 342659343}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1482521088
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1482521089}
+  - component: {fileID: 1482521090}
+  m_Layer: 0
+  m_Name: _SpawnPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1482521089
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1482521088}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 113074701}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1482521090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1482521088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 326a8effcca09f34cb536db238479fa4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnPool: []
 --- !u!1 &1682934382
 GameObject:
   m_ObjectHideFlags: 0
@@ -572,7 +622,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -594,7 +644,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1682934382}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -610,7 +660,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2041082869}
   - component: {fileID: 2041082868}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Background Center
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -676,6 +726,34 @@ Transform:
   m_Father: {fileID: 342659343}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2111402640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2111402641}
+  m_Layer: 0
+  m_Name: firepoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2111402641
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2111402640}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.193, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 113074701}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2123834580
 GameObject:
   m_ObjectHideFlags: 0
@@ -687,7 +765,7 @@ GameObject:
   m_Layer: 0
   m_Name: groundcheck
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -698,7 +776,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2123834580}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.305, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 113074701}

@@ -10,10 +10,27 @@ public class AbilityBelt : MonoBehaviour
     [Header("Abilities")]
     public List<Ability> abilities = new List<Ability>(4);
 
+    [Header("FirePoint")]
+    public Transform firePoint;
+    public Transform alternateFirePoint;
+
     private float abilityMainCD;
     private float abilityOneCD;
     private float abilityTwoCD;
     private float abilityUltimateHolyFuckItsAllOverAbilityCD;
+
+    private SpawnPool spawnPool;
+
+    private void Start()
+    {
+        spawnPool = GetComponentInChildren<SpawnPool>();
+        if (spawnPool == null)
+        {
+            print("Ability Belt requires a SpawnPool class to function correctly.");
+        }
+        else
+        { spawnPool.Spawn(abilities[0].ability, abilities[0].spawnInt); }
+    }
 
     private void Update()
     {
@@ -38,16 +55,40 @@ public class AbilityBelt : MonoBehaviour
         }
     }
 
+    private void FixedUpdate()
+    {
+        if (abilityMainCD > 0)
+        {
+            abilityMainCD -= Time.deltaTime;
+        }
+
+        if (abilityOneCD > 0)
+        {
+            abilityOneCD -= Time.deltaTime;
+        }
+
+        if (abilityTwoCD > 0)
+        {
+            abilityTwoCD -= Time.deltaTime;
+        }
+
+        if (abilityUltimateHolyFuckItsAllOverAbilityCD > 0)
+        {
+            abilityUltimateHolyFuckItsAllOverAbilityCD -= Time.deltaTime;
+        }
+    }
+
     private void FireMain()
     {
         if (abilityMainCD <= 0)
         {
-            Instantiate(abilities[0].ability, transform.position, Quaternion.identity);
+            spawnPool.Fire(firePoint);
+            GetComponent<Animator>().SetTrigger("Fire");
             abilityMainCD = abilities[0].abilityCooldown;
         }
         else
         {
-            print("Ability on CoolDown");
+            print("Ability on cooldown");
         }
     }
 

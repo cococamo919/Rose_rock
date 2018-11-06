@@ -13,6 +13,7 @@ public class Ability  {
     [Header("Ability")]
     public GameObject ability;
     public float abilityCooldown;
+    public int spawnInt;
     public int abilityStack;
     public bool isDisabled;
 
