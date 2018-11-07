@@ -73,7 +73,7 @@ public class PlayerController : MonoBehaviour {
 
     void Jump()
     {
-        animator.SetTrigger("isJumping");
+        animator.SetTrigger("Jump");
         rb.velocity = Vector2.up * jumpForce;
     }
 
