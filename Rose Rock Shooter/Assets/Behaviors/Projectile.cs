@@ -30,7 +30,8 @@ public class Projectile : MonoBehaviour {
     {
         if (collision != null)
         {
-            print("HIT!");
+            if(collision.tag == "Enemy")
+            { collision.GetComponent<Enemy>().Damage(damage); }
             gameObject.SetActive(false);
         }
     }
