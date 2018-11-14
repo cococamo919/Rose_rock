@@ -73,6 +73,9 @@ public class PlayerController : MonoBehaviour {
         }
         else if ((Input.GetButtonDown("Jump") && extraJumps == 0) && isGrounded)
         { Jump(); }
+
+        if (Input.GetKeyDown(KeyCode.V))
+        { animator.SetTrigger("Taunt"); }
     }
 
     void Jump()
