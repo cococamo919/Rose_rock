@@ -122,7 +122,7 @@ TextureImporter:
       name: Peggy Taunt_1
       rect:
         serializedVersion: 2
-        x: 179
+        x: 177
         y: 34
         width: 35
         height: 60
@@ -223,7 +223,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 817
-        y: 35
+        y: 34
         width: 35
         height: 60
       alignment: 0
@@ -303,7 +303,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1329
-        y: 33
+        y: 34
         width: 35
         height: 60
       alignment: 0
