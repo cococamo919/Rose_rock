@@ -29,6 +29,7 @@ public class PlayerController : MonoBehaviour {
     private void Start()
     {
         maxHealth = health;
+        Healthbar.singleton.SetHealth(health);
     }
 
     private void OnEnable()
