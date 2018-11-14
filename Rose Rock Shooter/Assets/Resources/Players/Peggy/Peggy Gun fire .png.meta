@@ -100,7 +100,7 @@ TextureImporter:
       name: Peggy Gun fire _0
       rect:
         serializedVersion: 2
-        x: 50
+        x: 49
         y: 34
         width: 69
         height: 60
@@ -125,7 +125,7 @@ TextureImporter:
         width: 69
         height: 60
       alignment: 9
-      pivot: {x: 0.25, y: 0.5}
+      pivot: {x: 0.26, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -280,7 +280,7 @@ TextureImporter:
       name: Peggy Gun fire _17
       rect:
         serializedVersion: 2
-        x: 1203
+        x: 1202
         y: 34
         width: 69
         height: 60
