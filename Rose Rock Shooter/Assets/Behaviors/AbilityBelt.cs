@@ -14,6 +14,14 @@ public class AbilityBelt : MonoBehaviour
     public Transform firePoint;
     public Transform alternateFirePoint;
 
+    [Header("Debug")]
+    public bool multiFire;
+    public float fireDelay;
+    public float mainCD;
+    public float oneCD;
+    public float twoCD;
+    public float ultimateHolyFuckItsAllOverAbilityCD;
+
     private float abilityMainCD;
     private float abilityOneCD;
     private float abilityTwoCD;
@@ -65,6 +73,7 @@ public class AbilityBelt : MonoBehaviour
         if (abilityOneCD > 0)
         {
             abilityOneCD -= Time.deltaTime;
+            AbilityBar.singleton.boxes[0].UpdateAbilityBox(abilityOneCD, oneCD);
         }
 
         if (abilityTwoCD > 0)
@@ -82,13 +91,18 @@ public class AbilityBelt : MonoBehaviour
     {
         if (abilityMainCD <= 0)
         {
-            spawnPool.Fire(firePoint);
+            if (multiFire)
+            { spawnPool.FireDouble(firePoint, alternateFirePoint, fireDelay); }
+            else
+            { spawnPool.Fire(firePoint); } 
             GetComponent<Animator>().SetTrigger("Fire");
             abilityMainCD = abilities[0].abilityCooldown;
+
+            abilityMainCD = mainCD;
         }
         else
         {
-            print("Ability on cooldown");
+            print(abilities[0].abilityName + " on cooldown " + mainCD);
         }
     }
 
@@ -98,10 +112,12 @@ public class AbilityBelt : MonoBehaviour
         {
             Instantiate(abilities[1].ability, transform.position, Quaternion.identity);
             abilityMainCD = abilities[1].abilityCooldown;
+
+            abilityOneCD = oneCD;
         }
         else
         {
-            print("Ability on CoolDown");
+            print(abilities[1].abilityName + " on cooldown " + oneCD);
         }
     }
 
@@ -129,6 +145,14 @@ public class AbilityBelt : MonoBehaviour
         {
             print("Ability on CoolDown");
         }
+    }
+
+    void SetCD()
+    {
+        mainCD = abilities[0].abilityCooldown;
+        oneCD = abilities[1].abilityCooldown;
+        twoCD = abilities[2].abilityCooldown;
+        ultimateHolyFuckItsAllOverAbilityCD = abilities[0].abilityCooldown; 
     }
 
 }

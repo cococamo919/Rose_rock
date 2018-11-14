@@ -55,7 +55,6 @@ public class Enemy : MonoBehaviour
                 color = new Color(spriteRenderer.color.r, spriteRenderer.color.g, spriteRenderer.color.b, 1);
                 visible = true;
             }
-            print("flash");
             spriteRenderer.color = color;
 
         }

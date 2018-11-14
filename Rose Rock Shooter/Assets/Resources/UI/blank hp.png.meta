@@ -2,12 +2,16 @@ fileFormatVersion: 2
 guid: da787d1417bd7484b8a158d005e80b84
 TextureImporter:
   fileIDToRecycleName:
-    21300000: blank hp_0
+    21300000: HealthBar
     21300002: blank hp_1
     21300004: blank hp_2
     21300006: blank hp_3
     21300008: blank hp_4
     21300010: blank hp_5
+    21300012: firstFill
+    21300014: firstEmpty
+    21300016: empty
+    21300018: fill
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -90,12 +94,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blank hp_0
+      name: HealthBar
       rect:
         serializedVersion: 2
-        x: 2
+        x: 10
         y: 1
-        width: 74
+        width: 79
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -104,37 +108,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac5096daf485444adba8bbc182bfdbd7
+      spriteID: abc3a765c80f5ed44be6249b108ff126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blank hp_1
+      name: firstFill
       rect:
         serializedVersion: 2
-        x: 76
-        y: 1
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b6b202f9568a4a849d1576990f2b1ca
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blank hp_2
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 14
+        x: 94
+        y: 7
         width: 8
         height: 5
       alignment: 0
@@ -144,17 +128,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f8d2fdbf5f3449faa91bea8f08e570e
+      spriteID: aeba486e986657b4da0b61276de97757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blank hp_3
+      name: firstEmpty
       rect:
         serializedVersion: 2
-        x: 78
-        y: 8
+        x: 94
+        y: 13
         width: 8
         height: 5
       alignment: 0
@@ -164,17 +148,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 297e6e2bd218449c3a92cdc2b58faca2
+      spriteID: 0af40b87c11e8004a87f284bf63e095f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blank hp_4
+      name: empty
       rect:
         serializedVersion: 2
-        x: 88
-        y: 14
+        x: 104
+        y: 13
         width: 7
         height: 5
       alignment: 0
@@ -184,17 +168,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bef1848619273421a88098cb0aa4b701
+      spriteID: defcbc22c0e6fee46a891b43db61ae6c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blank hp_5
+      name: fill
       rect:
         serializedVersion: 2
-        x: 88
-        y: 8
+        x: 104
+        y: 7
         width: 7
         height: 5
       alignment: 0
@@ -204,7 +188,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5a8553a0add245a9af4b4a78c1e0f89
+      spriteID: b7248d3ec5bd25b449879cc06fcb18cf
       vertices: []
       indices: 
       edges: []

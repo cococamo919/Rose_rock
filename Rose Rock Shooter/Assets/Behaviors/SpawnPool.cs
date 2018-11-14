@@ -22,22 +22,31 @@ public class SpawnPool : MonoBehaviour {
 
     public void Fire(Transform firePoint)
     {
-
         for (int i = 0; i < spawnNum; i++)
         {
-            GameObject spawn;
-
             if (spawnPool[i].activeSelf == false)
             {
-                spawn = spawnPool[i];
-
-                spawn.SetActive(true);
-                spawn.transform.position = firePoint.position;
-                spawn.transform.rotation = transform.parent.rotation;
-                spawn.GetComponent<Rigidbody2D>().velocity = transform.right * spawn.GetComponent<Projectile>().vel;
+                spawnPool[i].SetActive(true);
+                spawnPool[i].transform.position = firePoint.position;
+                spawnPool[i].transform.rotation = transform.parent.rotation;
+                spawnPool[i].GetComponent<Rigidbody2D>().velocity = transform.right * spawnPool[i].GetComponent<Projectile>().vel;
                 break;
             }
         }
+    }
+
+    public void FireDouble(Transform firePoint, Transform altFirePoint,  float fireDelay)
+    {
+        StartCoroutine(FireCor(firePoint, altFirePoint, fireDelay));
+    }
+
+    IEnumerator FireCor(Transform firePoint, Transform altFirePoint, float fireDelay)
+    {
+        Fire(firePoint);
+        yield return new WaitForSeconds(fireDelay);
+        Fire(altFirePoint);
+        yield return new WaitForSeconds(fireDelay);
+        yield return null;
     }
 
 }
