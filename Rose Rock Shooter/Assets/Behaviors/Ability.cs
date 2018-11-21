@@ -16,5 +16,6 @@ public class Ability  {
     public int spawnInt;
     public int abilityStack;
     public bool isDisabled;
+    [HideInInspector] public int stacks; 
 
 }

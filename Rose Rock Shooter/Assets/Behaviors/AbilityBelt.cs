@@ -38,6 +38,9 @@ public class AbilityBelt : MonoBehaviour
         }
         else
         { spawnPool.Spawn(abilities[0].ability, abilities[0].spawnInt); }
+
+        abilities[0].stacks = abilities[0].abilityStack;
+        AmmoBar.singleton.UpdateAmmoBar(abilities[0].stacks);
     }
 
     private void Update()
@@ -97,8 +100,20 @@ public class AbilityBelt : MonoBehaviour
             { spawnPool.Fire(firePoint); } 
             GetComponent<Animator>().SetTrigger("Fire");
             abilityMainCD = abilities[0].abilityCooldown;
+            abilities[0].stacks--;
 
-            abilityMainCD = mainCD;
+            if (abilities[0].stacks <= 0)
+            {
+                abilityMainCD = mainCD * 2;
+                abilities[0].stacks = abilities[0].abilityStack;
+            }
+            else
+            {
+                abilityMainCD = mainCD;
+            }
+
+            AmmoBar.singleton.RefreshAmmoBar(abilities[0].stacks, abilities[0].abilityStack);
+
         }
         else
         {

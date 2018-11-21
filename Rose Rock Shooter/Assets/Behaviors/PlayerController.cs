@@ -37,7 +37,6 @@ public class PlayerController : MonoBehaviour {
         rb = GetComponent<Rigidbody2D>();
         extraJumpsMax = extraJumps;
         animator = GetComponent<Animator>();
-        Healthbar.singleton.SetHealth(health);
     }
 
     private void FixedUpdate()
