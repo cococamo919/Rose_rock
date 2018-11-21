@@ -9,7 +9,7 @@ TextureImporter:
     21300008: Peggy Warp strom_7
     21300010: Peggy Warp strom_8
     21300012: Peggy Warp strom_9
-    21300014: Peggy Warp strom_2
+    21300014: Peggy Warp strom_10
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -95,8 +95,8 @@ TextureImporter:
       name: Peggy Warp strom_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 59
+        x: 11
+        y: 22
         width: 43
         height: 60
       alignment: 0
@@ -106,7 +106,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9f4166dcbcd69a4a83f136b2949eb62
+      spriteID: fc5321de0edf5dd41bbc280734a6a3ad
       vertices: []
       indices: 
       edges: []
@@ -115,8 +115,8 @@ TextureImporter:
       name: Peggy Warp strom_1
       rect:
         serializedVersion: 2
-        x: 145
-        y: 59
+        x: 60
+        y: 22
         width: 62
         height: 60
       alignment: 0
@@ -126,7 +126,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd9d93bea878d3e4c9005cc92a7765ad
+      spriteID: 0a406e1542907cd47903af98102a3e80
       vertices: []
       indices: 
       edges: []
@@ -135,8 +135,8 @@ TextureImporter:
       name: Peggy Warp strom_3
       rect:
         serializedVersion: 2
-        x: 207
-        y: 59
+        x: 128
+        y: 22
         width: 62
         height: 60
       alignment: 0
@@ -146,7 +146,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dbdad78d5b18634792e8147ec9426be
+      spriteID: 06a37914280bfe14a929a1e7f940006f
       vertices: []
       indices: 
       edges: []
@@ -155,8 +155,8 @@ TextureImporter:
       name: Peggy Warp strom_6
       rect:
         serializedVersion: 2
-        x: 269
-        y: 59
+        x: 196
+        y: 22
         width: 59
         height: 60
       alignment: 0
@@ -166,7 +166,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ffd71b392de4d345805b2e4b2647897
+      spriteID: b105ba66fddff8649a6b57d472523c18
       vertices: []
       indices: 
       edges: []
@@ -175,8 +175,8 @@ TextureImporter:
       name: Peggy Warp strom_7
       rect:
         serializedVersion: 2
-        x: 328
-        y: 59
+        x: 261
+        y: 22
         width: 59
         height: 60
       alignment: 0
@@ -186,7 +186,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a0b5ab5f720980499b731c036ea3a0e
+      spriteID: a32b2c283330889468c67031c891f7c5
       vertices: []
       indices: 
       edges: []
@@ -195,8 +195,8 @@ TextureImporter:
       name: Peggy Warp strom_8
       rect:
         serializedVersion: 2
-        x: 387
-        y: 59
+        x: 326
+        y: 22
         width: 57
         height: 60
       alignment: 0
@@ -206,7 +206,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 280027ee08a77254e9ce67e91e82c226
+      spriteID: 66f2f3477e48810468a4c534a5286d79
       vertices: []
       indices: 
       edges: []
@@ -215,8 +215,8 @@ TextureImporter:
       name: Peggy Warp strom_9
       rect:
         serializedVersion: 2
-        x: 444
-        y: 59
+        x: 389
+        y: 22
         width: 56
         height: 60
       alignment: 0
@@ -226,17 +226,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 663050e738df8b840b2a1a8fd193fdfc
+      spriteID: 3eeda38f1db8c1c429e2a2a9ce6eb194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Peggy Warp strom_2
+      name: Peggy Warp strom_10
       rect:
         serializedVersion: 2
-        x: 500
-        y: 59
+        x: 451
+        y: 22
         width: 43
         height: 60
       alignment: 0
@@ -246,7 +246,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df395011f62073941a2686b03e84f3b6
+      spriteID: 6a5ee64c21d7c294693dbc41acf300cd
       vertices: []
       indices: 
       edges: []
@@ -254,7 +254,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 536f55326bbd0ec4b837ffe19cea8193
+    spriteID: 7c5cbc6c90635df49a7c6d3508f43482
     vertices: []
     indices: 
     edges: []
