@@ -6,26 +6,27 @@ TextureImporter:
     21300002: Peggy Reload animation_1
     21300004: Peggy Reload animation_2
     21300006: Peggy Reload animation_3
-    21300008: Peggy Reload animation_5
-    21300010: Peggy Reload animation_6
-    21300012: Peggy Reload animation_7
-    21300014: Peggy Reload animation_8
-    21300016: Peggy Reload animation_9
-    21300018: Peggy Reload animation_10
-    21300020: Peggy Reload animation_11
-    21300022: Peggy Reload animation_12
-    21300024: Peggy Reload animation_13
-    21300026: Peggy Reload animation_14
-    21300028: Peggy Reload animation_15
-    21300030: Peggy Reload animation_16
-    21300032: Peggy Reload animation_17
-    21300034: Peggy Reload animation_18
-    21300036: Peggy Reload animation_19
-    21300038: Peggy Reload animation_20
-    21300040: Peggy Reload animation_21
-    21300042: Peggy Reload animation_22
-    21300044: Peggy Reload animation_4
+    21300008: Peggy Reload animation_4
+    21300010: Peggy Reload animation_5
+    21300012: Peggy Reload animation_6
+    21300014: Peggy Reload animation_7
+    21300016: Peggy Reload animation_8
+    21300018: Peggy Reload animation_9
+    21300020: Peggy Reload animation_10
+    21300022: Peggy Reload animation_11
+    21300024: Peggy Reload animation_12
+    21300026: Peggy Reload animation_13
+    21300028: Peggy Reload animation_14
+    21300030: Peggy Reload animation_15
+    21300032: Peggy Reload animation_16
+    21300034: Peggy Reload animation_17
+    21300036: Peggy Reload animation_18
+    21300038: Peggy Reload animation_19
+    21300040: Peggy Reload animation_20
+    21300042: Peggy Reload animation_21
+    21300044: Peggy Reload animation_22
     21300046: Peggy Reload animation_23
+    21300048: Peggy Reload animation_24
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -84,23 +85,23 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Standalone
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -111,18 +112,18 @@ TextureImporter:
       name: Peggy Reload animation_0
       rect:
         serializedVersion: 2
-        x: 74
-        y: 64
+        x: 26
+        y: 27
         width: 35
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b281c49f9933fa4e8f5791065f4be0a
+      spriteID: d8a4e424c4427f44582c1e7b57a22ca7
       vertices: []
       indices: 
       edges: []
@@ -131,18 +132,18 @@ TextureImporter:
       name: Peggy Reload animation_1
       rect:
         serializedVersion: 2
-        x: 109
-        y: 64
+        x: 67
+        y: 27
         width: 31
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a8d341961a96ce46982fc7043ea2498
+      spriteID: 1792ffe954766064d9366fe91fc82040
       vertices: []
       indices: 
       edges: []
@@ -151,18 +152,18 @@ TextureImporter:
       name: Peggy Reload animation_2
       rect:
         serializedVersion: 2
-        x: 140
-        y: 64
+        x: 104
+        y: 27
         width: 34
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdd7f06559eeab449ba670b4ce3db5d1
+      spriteID: 83dec114f6c310e498437a949011d23d
       vertices: []
       indices: 
       edges: []
@@ -171,18 +172,18 @@ TextureImporter:
       name: Peggy Reload animation_3
       rect:
         serializedVersion: 2
-        x: 174
-        y: 64
+        x: 144
+        y: 27
         width: 35
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44a96e165fb02a54bb3c45b7fcca8767
+      spriteID: 27ff520798a2a51488778d661ad385a5
       vertices: []
       indices: 
       edges: []
@@ -191,18 +192,18 @@ TextureImporter:
       name: Peggy Reload animation_5
       rect:
         serializedVersion: 2
-        x: 209
-        y: 64
+        x: 185
+        y: 27
         width: 29
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70628d812c16994408ef0897401cebcc
+      spriteID: ef7bd1a29f6b1a44e8db208617dd3ee0
       vertices: []
       indices: 
       edges: []
@@ -211,18 +212,18 @@ TextureImporter:
       name: Peggy Reload animation_6
       rect:
         serializedVersion: 2
-        x: 238
-        y: 64
+        x: 220
+        y: 27
         width: 26
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf891762beff2c0489502aa32f117a69
+      spriteID: 02e963354637bc0438d01a797b843ac9
       vertices: []
       indices: 
       edges: []
@@ -231,18 +232,18 @@ TextureImporter:
       name: Peggy Reload animation_7
       rect:
         serializedVersion: 2
-        x: 290
-        y: 64
-        width: 31
+        x: 252
+        y: 27
+        width: 26
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1459c5ba02c4244a98377181416eba4
+      spriteID: 14d91e1d683acdb4898ccec4d31d68ee
       vertices: []
       indices: 
       edges: []
@@ -251,18 +252,18 @@ TextureImporter:
       name: Peggy Reload animation_8
       rect:
         serializedVersion: 2
-        x: 321
-        y: 64
-        width: 33
+        x: 284
+        y: 27
+        width: 31
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7658d3dba1c7204c94a0b319060cd13
+      spriteID: f9ce5a303c841d74caadc6da6237b2bb
       vertices: []
       indices: 
       edges: []
@@ -271,18 +272,18 @@ TextureImporter:
       name: Peggy Reload animation_9
       rect:
         serializedVersion: 2
-        x: 354
-        y: 64
-        width: 34
+        x: 321
+        y: 27
+        width: 33
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84658e132e1044e48ba49ae537960c20
+      spriteID: d2cde282d85be2d438040755b6c951b0
       vertices: []
       indices: 
       edges: []
@@ -291,18 +292,18 @@ TextureImporter:
       name: Peggy Reload animation_10
       rect:
         serializedVersion: 2
-        x: 388
-        y: 64
+        x: 360
+        y: 27
         width: 34
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cd98792c89018e41927fde33f7ac3ff
+      spriteID: 66a7dc7a15a404744a9908705e2117e5
       vertices: []
       indices: 
       edges: []
@@ -311,18 +312,18 @@ TextureImporter:
       name: Peggy Reload animation_11
       rect:
         serializedVersion: 2
-        x: 422
-        y: 64
-        width: 32
+        x: 400
+        y: 27
+        width: 34
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa83f7b3cea839a47b20dbe5ebe1907e
+      spriteID: 40b66dca3621e8c45b6e75dd4d78ce7d
       vertices: []
       indices: 
       edges: []
@@ -331,18 +332,18 @@ TextureImporter:
       name: Peggy Reload animation_12
       rect:
         serializedVersion: 2
-        x: 454
-        y: 64
-        width: 33
+        x: 440
+        y: 27
+        width: 32
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07d718737391e964585ef3f7286b948a
+      spriteID: bc849a678f6a97f4faca44abdead5bab
       vertices: []
       indices: 
       edges: []
@@ -351,18 +352,18 @@ TextureImporter:
       name: Peggy Reload animation_13
       rect:
         serializedVersion: 2
-        x: 487
-        y: 64
-        width: 34
+        x: 478
+        y: 27
+        width: 33
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adab312e17f611240b27aff8494a660c
+      spriteID: 5415c0ea1e848a149b671ff37940288d
       vertices: []
       indices: 
       edges: []
@@ -371,18 +372,18 @@ TextureImporter:
       name: Peggy Reload animation_14
       rect:
         serializedVersion: 2
-        x: 521
-        y: 64
+        x: 517
+        y: 27
         width: 34
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22b9ffe0e57f39b45a79e5d0ff331351
+      spriteID: 2406875020f2cc84b9d8e26ccf6fcb43
       vertices: []
       indices: 
       edges: []
@@ -391,18 +392,18 @@ TextureImporter:
       name: Peggy Reload animation_15
       rect:
         serializedVersion: 2
-        x: 555
-        y: 64
-        width: 32
+        x: 557
+        y: 27
+        width: 34
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3630217c63a81a5438afc2f7cc62391d
+      spriteID: c4a3db8bd78264e4d8dfc90c88ed92ad
       vertices: []
       indices: 
       edges: []
@@ -411,18 +412,18 @@ TextureImporter:
       name: Peggy Reload animation_16
       rect:
         serializedVersion: 2
-        x: 587
-        y: 64
-        width: 33
+        x: 597
+        y: 27
+        width: 32
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6963165a5cbf992498bfc2f4d50cccd1
+      spriteID: d0dfda7680dc9b44492a395339817cca
       vertices: []
       indices: 
       edges: []
@@ -431,18 +432,18 @@ TextureImporter:
       name: Peggy Reload animation_17
       rect:
         serializedVersion: 2
-        x: 620
-        y: 64
-        width: 35
+        x: 635
+        y: 27
+        width: 33
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f3db9b0327562443b65c91989cf5e8c
+      spriteID: d0f89b212440c7d4da568c7673b7f78e
       vertices: []
       indices: 
       edges: []
@@ -451,18 +452,18 @@ TextureImporter:
       name: Peggy Reload animation_18
       rect:
         serializedVersion: 2
-        x: 655
-        y: 64
-        width: 38
+        x: 674
+        y: 27
+        width: 35
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6a5ade5cd3cb2d4c87357d0c0588c55
+      spriteID: f22223195f2f87e4983c5f778916a96c
       vertices: []
       indices: 
       edges: []
@@ -471,18 +472,18 @@ TextureImporter:
       name: Peggy Reload animation_19
       rect:
         serializedVersion: 2
-        x: 693
-        y: 64
-        width: 40
+        x: 715
+        y: 27
+        width: 38
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f62fe25b3598154fbfec11e349dcbe0
+      spriteID: 6992e87f2aa67954f8837950f5eecc19
       vertices: []
       indices: 
       edges: []
@@ -491,18 +492,18 @@ TextureImporter:
       name: Peggy Reload animation_20
       rect:
         serializedVersion: 2
-        x: 768
-        y: 64
-        width: 37
+        x: 759
+        y: 27
+        width: 41
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8c341eceb891cb49aa94d5e9a560f91
+      spriteID: a89614e95a80b5b459c2207de97c71a8
       vertices: []
       indices: 
       edges: []
@@ -511,18 +512,18 @@ TextureImporter:
       name: Peggy Reload animation_21
       rect:
         serializedVersion: 2
-        x: 805
-        y: 64
-        width: 42
+        x: 806
+        y: 27
+        width: 34
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c5ed8ea27016c1438208906e1f93c02
+      spriteID: ede17969c50bd1c43bc9b125a6b060e9
       vertices: []
       indices: 
       edges: []
@@ -531,38 +532,18 @@ TextureImporter:
       name: Peggy Reload animation_22
       rect:
         serializedVersion: 2
-        x: 847
-        y: 64
-        width: 35
+        x: 846
+        y: 27
+        width: 39
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 781844ff2ddc9924d99fb7e7027d8a09
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Reload animation_4
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 64
-        width: 25
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12880c574fabc714fa92ad7b24364798
+      spriteID: f8564b1486f90d046b71ed0ce41961df
       vertices: []
       indices: 
       edges: []
@@ -571,18 +552,38 @@ TextureImporter:
       name: Peggy Reload animation_23
       rect:
         serializedVersion: 2
-        x: 733
-        y: 64
-        width: 35
+        x: 895
+        y: 27
+        width: 36
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24f6bbc1b8ed606428de1823cbed301e
+      spriteID: bf887f94ef2816944b53f4c9ec8b850a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Reload animation_24
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 27
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fbd98b84765df43ac3cafa6b3d1384
       vertices: []
       indices: 
       edges: []
@@ -590,7 +591,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 9eea1eef29f429443926cc4843257e7f
+    spriteID: a1418969bee0c714e88c9f229940fe0a
     vertices: []
     indices: 
     edges: []
