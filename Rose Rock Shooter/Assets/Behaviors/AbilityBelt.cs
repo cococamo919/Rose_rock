@@ -106,6 +106,7 @@ public class AbilityBelt : MonoBehaviour
             {
                 abilityMainCD = mainCD * 2;
                 abilities[0].stacks = abilities[0].abilityStack;
+                GetComponent<Animator>().SetTrigger("Reload");
             }
             else
             {
