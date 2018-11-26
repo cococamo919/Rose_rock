@@ -105,18 +105,18 @@ TextureImporter:
       name: Peggy Chrono shot_0
       rect:
         serializedVersion: 2
-        x: 76
-        y: 54
-        width: 35
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 61
+        y: 11
+        width: 56
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85e0f94aae57abf48866a686fae037a7
+      spriteID: b0b6d27e42074bb47bdb31193532fd41
       vertices: []
       indices: 
       edges: []
@@ -126,17 +126,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 54
-        width: 35
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 11
+        width: 56
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbb91fc767af26f4aa917ec5780ae860
+      spriteID: a674514baa515214092c7698bf4020db
       vertices: []
       indices: 
       edges: []
@@ -145,18 +145,18 @@ TextureImporter:
       name: Peggy Chrono shot_2
       rect:
         serializedVersion: 2
-        x: 148
-        y: 54
-        width: 35
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 163
+        y: 11
+        width: 56
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c13da271d09bb4d44a9e64006de623f5
+      spriteID: d55fd8481202af349be3fd31debb3d2a
       vertices: []
       indices: 
       edges: []
@@ -165,18 +165,18 @@ TextureImporter:
       name: Peggy Chrono shot_3
       rect:
         serializedVersion: 2
-        x: 184
-        y: 54
-        width: 36
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 215
+        y: 11
+        width: 56
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 335235b9a078ade4a96856ba899c457a
+      spriteID: a100c7e35232b5c45b0dad3796e58e17
       vertices: []
       indices: 
       edges: []
@@ -185,18 +185,18 @@ TextureImporter:
       name: Peggy Chrono shot_4
       rect:
         serializedVersion: 2
-        x: 221
-        y: 54
-        width: 50
+        x: 271
+        y: 11
+        width: 56
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: def53c1fcc551a6469c622f1267f523c
+      spriteID: 2bdc5ed7743dc4f44b11cfef4e9e2f26
       vertices: []
       indices: 
       edges: []
@@ -205,18 +205,18 @@ TextureImporter:
       name: Peggy Chrono shot_6
       rect:
         serializedVersion: 2
-        x: 271
-        y: 54
+        x: 337
+        y: 11
         width: 56
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e0dce5b3f86a1140b9532e5a4970c42
+      spriteID: 4a8a90efa89cd674e9d51bf121f48fb8
       vertices: []
       indices: 
       edges: []
@@ -225,18 +225,18 @@ TextureImporter:
       name: Peggy Chrono shot_8
       rect:
         serializedVersion: 2
-        x: 327
-        y: 53
+        x: 408
+        y: 11
         width: 56
-        height: 69
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c36182617b3b0504d8a946b929872e37
+      spriteID: d6affa51a42fd634e8d9a8ae590fede9
       vertices: []
       indices: 
       edges: []
@@ -245,18 +245,18 @@ TextureImporter:
       name: Peggy Chrono shot_10
       rect:
         serializedVersion: 2
-        x: 383
-        y: 53
+        x: 480
+        y: 10
         width: 56
-        height: 68
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b88af33d5398e48479b765193d4244b6
+      spriteID: e76edaf8d8b711947bcdb390b5b2d683
       vertices: []
       indices: 
       edges: []
@@ -265,18 +265,18 @@ TextureImporter:
       name: Peggy Chrono shot_12
       rect:
         serializedVersion: 2
-        x: 439
-        y: 55
-        width: 53
-        height: 66
+        x: 552
+        y: 11
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 803f173aa520cb24fa09b38dfea6b122
+      spriteID: 53cc868b5a63d1543a1fca547b1da3b6
       vertices: []
       indices: 
       edges: []
@@ -285,18 +285,18 @@ TextureImporter:
       name: Peggy Chrono shot_14
       rect:
         serializedVersion: 2
-        x: 492
-        y: 54
-        width: 54
+        x: 621
+        y: 11
+        width: 56
         height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c62417847b3a474f876eae04999b5c5
+      spriteID: 2e211e7aad697354faddd61a3a1ee183
       vertices: []
       indices: 
       edges: []
@@ -305,18 +305,18 @@ TextureImporter:
       name: Peggy Chrono shot_16
       rect:
         serializedVersion: 2
-        x: 546
-        y: 54
-        width: 55
+        x: 692
+        y: 11
+        width: 56
         height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e64f011422481746b086a5f56273e7f
+      spriteID: 080be80ce5e526043abd88e6e2d0222f
       vertices: []
       indices: 
       edges: []
@@ -325,18 +325,18 @@ TextureImporter:
       name: Peggy Chrono shot_18
       rect:
         serializedVersion: 2
-        x: 601
-        y: 53
-        width: 52
-        height: 68
+        x: 762
+        y: 11
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef832f7d5aac6d0448afe8abfce22e50
+      spriteID: 4f7e6b3a99796e04a8c3b07995c12299
       vertices: []
       indices: 
       edges: []
@@ -345,18 +345,18 @@ TextureImporter:
       name: Peggy Chrono shot_20
       rect:
         serializedVersion: 2
-        x: 658
-        y: 58
-        width: 51
-        height: 63
+        x: 835
+        y: 11
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ab1be78b6238b741b85499e8c22f9a4
+      spriteID: 61102a1ba714a1d4bb0c5a0d4c04d480
       vertices: []
       indices: 
       edges: []
@@ -365,18 +365,18 @@ TextureImporter:
       name: Peggy Chrono shot_22
       rect:
         serializedVersion: 2
-        x: 709
-        y: 58
-        width: 51
-        height: 63
+        x: 902
+        y: 11
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d9f314384245bc44895cfcc723cd21f
+      spriteID: 1c161a15f0445204c908fe57d8cdedd1
       vertices: []
       indices: 
       edges: []
@@ -385,18 +385,18 @@ TextureImporter:
       name: Peggy Chrono shot_24
       rect:
         serializedVersion: 2
-        x: 760
-        y: 58
-        width: 51
-        height: 63
+        x: 969
+        y: 11
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2af2c11a8bdc57147887036239b5c420
+      spriteID: a6ed48d1c44a783479686fc58cf6f409
       vertices: []
       indices: 
       edges: []
@@ -405,18 +405,18 @@ TextureImporter:
       name: Peggy Chrono shot_26
       rect:
         serializedVersion: 2
-        x: 811
-        y: 58
-        width: 51
-        height: 63
+        x: 1036
+        y: 11
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad8da01d077d71a498b9b96c0e6a8aaf
+      spriteID: 59957c5a930842b41a3cba33ea216e04
       vertices: []
       indices: 
       edges: []
@@ -425,18 +425,18 @@ TextureImporter:
       name: Peggy Chrono shot_28
       rect:
         serializedVersion: 2
-        x: 862
-        y: 58
-        width: 51
-        height: 63
+        x: 1103
+        y: 11
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c179a175922ed44c93d888ec70a5b34
+      spriteID: 570edf7f1b389b44ea2f1f467fcdbb7b
       vertices: []
       indices: 
       edges: []
@@ -445,18 +445,18 @@ TextureImporter:
       name: Peggy Chrono shot_30
       rect:
         serializedVersion: 2
-        x: 913
-        y: 61
-        width: 35
-        height: 60
+        x: 1170
+        y: 11
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8abb05cab3958a4498f5619706fddd79
+      spriteID: ef1a59d76610cdf4db0ee7d18c204fdf
       vertices: []
       indices: 
       edges: []
@@ -464,7 +464,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 861e8b638432dd24ba0271682b0a48c5
+    spriteID: 9eac44251e52e0547a8433e1d1d77313
     vertices: []
     indices: 
     edges: []
