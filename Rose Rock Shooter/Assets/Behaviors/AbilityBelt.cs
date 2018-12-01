@@ -128,7 +128,7 @@ public class AbilityBelt : MonoBehaviour
         {
             Instantiate(abilities[1].ability, transform.position, Quaternion.identity);
             abilityMainCD = abilities[1].abilityCooldown;
-
+            GetComponent<Animator>().SetTrigger("Fire2");
             abilityOneCD = oneCD;
         }
         else
