@@ -10,21 +10,22 @@ TextureImporter:
     21300010: Peggy Fall and shoot_5
     21300012: Peggy Fall and shoot_7
     21300014: Peggy Fall and shoot_10
-    21300016: Peggy Fall and shoot_13
-    21300018: Peggy Fall and shoot_15
-    21300020: Peggy Fall and shoot_17
-    21300022: Peggy Fall and shoot_18
-    21300024: Peggy Fall and shoot_19
-    21300026: Peggy Fall and shoot_20
-    21300028: Peggy Fall and shoot_21
-    21300030: Peggy Fall and shoot_22
-    21300032: Peggy Fall and shoot_23
-    21300034: Peggy Fall and shoot_24
-    21300036: Peggy Fall and shoot_25
-    21300038: Peggy Fall and shoot_26
-    21300040: Peggy Fall and shoot_27
-    21300042: Peggy Fall and shoot_28
-    21300044: Peggy Fall and shoot_29
+    21300016: Peggy Fall and shoot_11
+    21300018: Peggy Fall and shoot_13
+    21300020: Peggy Fall and shoot_15
+    21300022: Peggy Fall and shoot_17
+    21300024: Peggy Fall and shoot_18
+    21300026: Peggy Fall and shoot_19
+    21300028: Peggy Fall and shoot_20
+    21300030: Peggy Fall and shoot_21
+    21300032: Peggy Fall and shoot_22
+    21300034: Peggy Fall and shoot_23
+    21300036: Peggy Fall and shoot_24
+    21300038: Peggy Fall and shoot_25
+    21300040: Peggy Fall and shoot_26
+    21300042: Peggy Fall and shoot_27
+    21300044: Peggy Fall and shoot_28
+    21300046: Peggy Fall and shoot_29
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -110,128 +111,8 @@ TextureImporter:
       name: Peggy Fall and shoot_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 14
-        width: 39
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2bbbe0160811fde4aa1c0d7355311988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Fall and shoot_1
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 13
-        width: 40
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 246a259ff5fa792418d6b67bd983d016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Fall and shoot_2
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 14
-        width: 39
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb2cc6ab273d03044803f71a93797e5a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Fall and shoot_3
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 14
-        width: 42
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e03e8b278d45b4448de46371dcd6014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Fall and shoot_4
-      rect:
-        serializedVersion: 2
-        x: 292
-        y: 14
-        width: 43
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd8d136715229c6419b457433e908cc0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Fall and shoot_5
-      rect:
-        serializedVersion: 2
-        x: 361
-        y: 14
-        width: 68
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b6f9b42ab8861546aeee5c5b18ba661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Fall and shoot_7
-      rect:
-        serializedVersion: 2
-        x: 455
-        y: 14
+        x: 7
+        y: 16
         width: 71
         height: 60
       alignment: 0
@@ -241,7 +122,127 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebe14e1c77b189e46977043ef7667c71
+      spriteID: 16bf10cc9e3c118408c79f02d110d4ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Fall and shoot_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 15
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d805ec2453e3cf54296ebc9f810f5b8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Fall and shoot_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 16
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e1c365bdf092646bf9287dbb6fb162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Fall and shoot_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 16
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8d58afd3f65704caa31bb69439de7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Fall and shoot_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 17
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f18cec719ebb748afc3abf4703af9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Fall and shoot_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 16
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb29100203eaf4d8a7e4f9dae410c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Fall and shoot_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 16
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba24bf1e6900b9248a7e526d190e1ac8
       vertices: []
       indices: 
       edges: []
@@ -250,9 +251,9 @@ TextureImporter:
       name: Peggy Fall and shoot_10
       rect:
         serializedVersion: 2
-        x: 552
-        y: 14
-        width: 65
+        x: 577
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -261,7 +262,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbe907b83271c6342a72efd04d65ea4b
+      spriteID: e9886c61f36b2f34eaaf74b1c2b1f01b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Fall and shoot_11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4db8dd9afbe247ac018f3b49398ff
       vertices: []
       indices: 
       edges: []
@@ -270,9 +291,9 @@ TextureImporter:
       name: Peggy Fall and shoot_13
       rect:
         serializedVersion: 2
-        x: 643
-        y: 13
-        width: 64
+        x: 672
+        y: 15
+        width: 71
         height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -281,7 +302,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 678dc5c7ca1fc4446befb3537059f5ca
+      spriteID: 7974e7ebf182223459b73fbf67117fec
       vertices: []
       indices: 
       edges: []
@@ -290,9 +311,9 @@ TextureImporter:
       name: Peggy Fall and shoot_15
       rect:
         serializedVersion: 2
-        x: 733
-        y: 14
-        width: 64
+        x: 767
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -301,7 +322,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37263b8274f81b742a022ccd3347fbac
+      spriteID: 6265ee0d257dc884097ad6ad1e8d821e
       vertices: []
       indices: 
       edges: []
@@ -310,9 +331,9 @@ TextureImporter:
       name: Peggy Fall and shoot_17
       rect:
         serializedVersion: 2
-        x: 823
-        y: 14
-        width: 65
+        x: 863
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -321,7 +342,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 976dd6047eaf7854aaa38b2e41f389bd
+      spriteID: 60afccdff0155794a88df557663b250b
       vertices: []
       indices: 
       edges: []
@@ -330,9 +351,9 @@ TextureImporter:
       name: Peggy Fall and shoot_18
       rect:
         serializedVersion: 2
-        x: 914
-        y: 14
-        width: 66
+        x: 958
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -341,7 +362,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd34a2aa2cfdc5149a34d39f23655f40
+      spriteID: bdb61aa1f58f8d3428c9d716b1e36174
       vertices: []
       indices: 
       edges: []
@@ -350,9 +371,9 @@ TextureImporter:
       name: Peggy Fall and shoot_19
       rect:
         serializedVersion: 2
-        x: 1006
-        y: 14
-        width: 43
+        x: 1055
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -361,7 +382,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c310eb1d964e8fe439831c8b4d3375ad
+      spriteID: 676c50aa45128de47b35e0e92ed0544b
       vertices: []
       indices: 
       edges: []
@@ -370,9 +391,9 @@ TextureImporter:
       name: Peggy Fall and shoot_20
       rect:
         serializedVersion: 2
-        x: 1074
-        y: 14
-        width: 45
+        x: 1128
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -381,7 +402,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2afefa86097dba04cb5140c8c4d069ec
+      spriteID: 2c4443411058c5e4a99dca39993dd3ef
       vertices: []
       indices: 
       edges: []
@@ -390,9 +411,9 @@ TextureImporter:
       name: Peggy Fall and shoot_21
       rect:
         serializedVersion: 2
-        x: 1145
-        y: 14
-        width: 52
+        x: 1204
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -401,7 +422,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40d7613511198e04cbf1076892e7859e
+      spriteID: a293099bd563d404793b65c0d179bf3a
       vertices: []
       indices: 
       edges: []
@@ -410,9 +431,9 @@ TextureImporter:
       name: Peggy Fall and shoot_22
       rect:
         serializedVersion: 2
-        x: 1223
-        y: 14
-        width: 43
+        x: 1287
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -421,7 +442,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d07dc88d25a345043bb5ea38fa4d097f
+      spriteID: 93cf575b7de004a40a373b6a6c46f245
       vertices: []
       indices: 
       edges: []
@@ -430,9 +451,9 @@ TextureImporter:
       name: Peggy Fall and shoot_23
       rect:
         serializedVersion: 2
-        x: 1292
-        y: 14
-        width: 42
+        x: 1361
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -441,7 +462,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61d2b3cb49f0faa4cba2f2736665e81d
+      spriteID: 678dda329e73eb34397b5d8cb559a192
       vertices: []
       indices: 
       edges: []
@@ -450,9 +471,9 @@ TextureImporter:
       name: Peggy Fall and shoot_24
       rect:
         serializedVersion: 2
-        x: 1360
-        y: 14
-        width: 42
+        x: 1434
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -461,7 +482,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2de97cb63888a3b43b51c33dd3a1c57a
+      spriteID: b6cea8249e9d5574c94322b2bc839de0
       vertices: []
       indices: 
       edges: []
@@ -470,9 +491,9 @@ TextureImporter:
       name: Peggy Fall and shoot_25
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 14
-        width: 42
+        x: 1507
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -481,7 +502,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bce7ff896cc4504683bef036b850bf7
+      spriteID: 3d30173f1d6a72f48b11a3bb5ecdccfd
       vertices: []
       indices: 
       edges: []
@@ -490,9 +511,9 @@ TextureImporter:
       name: Peggy Fall and shoot_26
       rect:
         serializedVersion: 2
-        x: 1496
-        y: 14
-        width: 42
+        x: 1580
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -501,7 +522,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9104d8e13b71ea43b7bb0c5c7cfc07f
+      spriteID: e426e36572d6afe4b800c05ab657f954
       vertices: []
       indices: 
       edges: []
@@ -510,9 +531,9 @@ TextureImporter:
       name: Peggy Fall and shoot_27
       rect:
         serializedVersion: 2
-        x: 1564
-        y: 13
-        width: 39
+        x: 1653
+        y: 15
+        width: 71
         height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -521,7 +542,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a94cc2688b35feb42b773094ef5fdaa1
+      spriteID: 1e0b6c9010b4b5443bcea2cb25941be5
       vertices: []
       indices: 
       edges: []
@@ -530,9 +551,9 @@ TextureImporter:
       name: Peggy Fall and shoot_28
       rect:
         serializedVersion: 2
-        x: 1629
-        y: 13
-        width: 40
+        x: 1723
+        y: 15
+        width: 71
         height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -541,7 +562,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83299f1c5bd7d6642bb9fb473ca02b0c
+      spriteID: 052e5a0d543b647498bc488538375a30
       vertices: []
       indices: 
       edges: []
@@ -550,9 +571,9 @@ TextureImporter:
       name: Peggy Fall and shoot_29
       rect:
         serializedVersion: 2
-        x: 1695
-        y: 14
-        width: 39
+        x: 1794
+        y: 16
+        width: 71
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -561,7 +582,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7dca3a236ae37c48b561da42d6c3897
+      spriteID: d6ba53240a7b0394cb1dbd4e48a3fda0
       vertices: []
       indices: 
       edges: []
@@ -569,7 +590,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 65d27e077bd79d14aab921820e85aed1
+    spriteID: 1fca29c288f355a4d95ba440870bb939
     vertices: []
     indices: 
     edges: []
