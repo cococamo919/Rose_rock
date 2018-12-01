@@ -102,10 +102,10 @@ TextureImporter:
         serializedVersion: 2
         x: 51
         y: 34
-        width: 43
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -122,10 +122,10 @@ TextureImporter:
         serializedVersion: 2
         x: 177
         y: 34
-        width: 45
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -142,10 +142,10 @@ TextureImporter:
         serializedVersion: 2
         x: 304
         y: 35
-        width: 37
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -160,12 +160,12 @@ TextureImporter:
       name: Peggy Run chrono shot_3
       rect:
         serializedVersion: 2
-        x: 432
+        x: 431
         y: 34
-        width: 38
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -182,10 +182,10 @@ TextureImporter:
         serializedVersion: 2
         x: 560
         y: 34
-        width: 58
+        width: 69
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -200,12 +200,12 @@ TextureImporter:
       name: Peggy Run chrono shot_6
       rect:
         serializedVersion: 2
-        x: 691
+        x: 690
         y: 34
-        width: 66
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -220,12 +220,12 @@ TextureImporter:
       name: Peggy Run chrono shot_8
       rect:
         serializedVersion: 2
-        x: 817
+        x: 816
         y: 34
-        width: 62
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -240,12 +240,12 @@ TextureImporter:
       name: Peggy Run chrono shot_11
       rect:
         serializedVersion: 2
-        x: 945
+        x: 944
         y: 34
-        width: 61
+        width: 69
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -264,8 +264,8 @@ TextureImporter:
         y: 36
         width: 69
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -282,10 +282,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1199
         y: 36
-        width: 61
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -302,10 +302,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1328
         y: 34
-        width: 62
+        width: 69
         height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -322,10 +322,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1459
         y: 34
-        width: 59
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -342,10 +342,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1587
         y: 34
-        width: 53
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
