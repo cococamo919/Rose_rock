@@ -8,38 +8,39 @@ TextureImporter:
     21300006: Peggy Run and Reload_3
     21300008: Peggy Run and Reload_4
     21300010: Peggy Run and Reload_6
-    21300012: Peggy Run and Reload_8
-    21300014: Peggy Run and Reload_10
-    21300016: Peggy Run and Reload_12
-    21300018: Peggy Run and Reload_14
-    21300020: Peggy Run and Reload_16
-    21300022: Peggy Run and Reload_18
-    21300024: Peggy Run and Reload_19
-    21300026: Peggy Run and Reload_21
-    21300028: Peggy Run and Reload_23
-    21300030: Peggy Run and Reload_25
-    21300032: Peggy Run and Reload_26
-    21300034: Peggy Run and Reload_28
-    21300036: Peggy Run and Reload_30
-    21300038: Peggy Run and Reload_32
-    21300040: Peggy Run and Reload_33
-    21300042: Peggy Run and Reload_34
-    21300044: Peggy Run and Reload_36
-    21300046: Peggy Run and Reload_38
-    21300048: Peggy Run and Reload_39
-    21300050: Peggy Run and Reload_41
-    21300052: Peggy Run and Reload_43
-    21300054: Peggy Run and Reload_44
-    21300056: Peggy Run and Reload_45
-    21300058: Peggy Run and Reload_46
-    21300060: Peggy Run and Reload_47
-    21300062: Peggy Run and Reload_48
-    21300064: Peggy Run and Reload_49
-    21300066: Peggy Run and Reload_50
-    21300068: Peggy Run and Reload_51
-    21300070: Peggy Run and Reload_52
-    21300072: Peggy Run and Reload_53
-    21300074: Peggy Run and Reload_54
+    21300012: Peggy Run and Reload_7
+    21300014: Peggy Run and Reload_8
+    21300016: Peggy Run and Reload_10
+    21300018: Peggy Run and Reload_12
+    21300020: Peggy Run and Reload_14
+    21300022: Peggy Run and Reload_16
+    21300024: Peggy Run and Reload_18
+    21300026: Peggy Run and Reload_19
+    21300028: Peggy Run and Reload_21
+    21300030: Peggy Run and Reload_23
+    21300032: Peggy Run and Reload_25
+    21300034: Peggy Run and Reload_26
+    21300036: Peggy Run and Reload_28
+    21300038: Peggy Run and Reload_30
+    21300040: Peggy Run and Reload_32
+    21300042: Peggy Run and Reload_33
+    21300044: Peggy Run and Reload_34
+    21300046: Peggy Run and Reload_36
+    21300048: Peggy Run and Reload_38
+    21300050: Peggy Run and Reload_39
+    21300052: Peggy Run and Reload_41
+    21300054: Peggy Run and Reload_43
+    21300056: Peggy Run and Reload_44
+    21300058: Peggy Run and Reload_45
+    21300060: Peggy Run and Reload_46
+    21300062: Peggy Run and Reload_47
+    21300064: Peggy Run and Reload_48
+    21300066: Peggy Run and Reload_49
+    21300068: Peggy Run and Reload_50
+    21300070: Peggy Run and Reload_51
+    21300072: Peggy Run and Reload_52
+    21300074: Peggy Run and Reload_53
+    21300076: Peggy Run and Reload_54
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -125,527 +126,7 @@ TextureImporter:
       name: Peggy Run and Reload_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 11
-        width: 43
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 567d980089e8c1247ba93d3f8fa6eacb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_1
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 11
-        width: 45
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3f9d145967635a45bbe452c62c9ade6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_2
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 12
-        width: 50
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd4743a8175251748bfae1e9f8cca153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_3
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 11
-        width: 52
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d81a0bde3f60cfb41b58d42da09237a5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_4
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 11
-        width: 51
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c663c1c092bab24c969880589b7d151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_6
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 11
-        width: 44
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7cdc5ae33a0d1e74eafcdbe414795c83
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_8
-      rect:
-        serializedVersion: 2
-        x: 382
-        y: 11
-        width: 47
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73e01bd946631e747bf265e5c589c457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_10
-      rect:
-        serializedVersion: 2
-        x: 444
-        y: 11
-        width: 51
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 858a89caff078e9478ff906604a1e330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_12
-      rect:
-        serializedVersion: 2
-        x: 510
-        y: 12
-        width: 54
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3cae3ed856e5b1a4cafe841f312ef7e0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_14
-      rect:
-        serializedVersion: 2
-        x: 579
-        y: 12
-        width: 56
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1511124353988334bbcd12945a7449de
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_16
-      rect:
-        serializedVersion: 2
-        x: 650
-        y: 12
-        width: 55
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d36f5b148befcf54796efd25ad3aa972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_18
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 12
-        width: 50
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 030cf176b2aa88c41965208db5e374e6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_19
-      rect:
-        serializedVersion: 2
-        x: 785
-        y: 12
-        width: 51
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8982ecc7bee41a245826559f3853ff3e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_21
-      rect:
-        serializedVersion: 2
-        x: 851
-        y: 11
-        width: 52
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb7c8a9ddb9dfae4cb6ef4cab978759f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_23
-      rect:
-        serializedVersion: 2
-        x: 918
-        y: 11
-        width: 54
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 627f7bb15c4ce8142be1741648621117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_25
-      rect:
-        serializedVersion: 2
-        x: 987
-        y: 12
-        width: 53
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87e3522c92c85d442a9196e3f9650146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_26
-      rect:
-        serializedVersion: 2
-        x: 1055
-        y: 11
-        width: 54
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f07cb1e968e10004ab7181828841314e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_28
-      rect:
-        serializedVersion: 2
-        x: 1124
-        y: 11
-        width: 55
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d61e054a0dc3d0a4881f1a8deb821e08
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_30
-      rect:
-        serializedVersion: 2
-        x: 1194
-        y: 11
-        width: 52
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35adaa55cb3ba6443970b784a415906e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_32
-      rect:
-        serializedVersion: 2
-        x: 1261
-        y: 11
-        width: 52
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95cc247bb134eca42aa73318a359bed2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_33
-      rect:
-        serializedVersion: 2
-        x: 1328
-        y: 12
-        width: 54
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3c5d5d9709e3af4d96ab0093661111d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_34
-      rect:
-        serializedVersion: 2
-        x: 1397
-        y: 12
-        width: 56
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4189833ba192b6d4c935dff6fed33b6b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_36
-      rect:
-        serializedVersion: 2
-        x: 1468
-        y: 12
-        width: 55
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ad0ee2397114f0408951227214a737b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_38
-      rect:
-        serializedVersion: 2
-        x: 1538
-        y: 12
-        width: 50
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef4bbf6b21b251d4989a4fbacc9879da
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_39
-      rect:
-        serializedVersion: 2
-        x: 1603
-        y: 12
-        width: 50
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86c4424456728b142b236c4ff8b8eb6a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_41
-      rect:
-        serializedVersion: 2
-        x: 1668
-        y: 11
-        width: 50
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b61a4533e9fa8c4196623bb599b7a12
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Peggy Run and Reload_43
-      rect:
-        serializedVersion: 2
-        x: 1733
+        x: 19
         y: 11
         width: 58
         height: 61
@@ -656,7 +137,547 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 450bd6cdc62732b4d8340afcb7dfd6a7
+      spriteID: 9e05878533cd2e34eb3671ed91877324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384ed422dcfe896438a31edf9ccf472a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18408fba167ffed4ab5b178cc7ca2bf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069163ce95187774bb1bee26f3a5f510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68f52d9706ea094dbd89a1c4a4a948e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e8b30de2e4dd04a95d8d349bb94101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd05284941a7374a8c9db3254a08ac3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260732f7b3b1bbd4fb1c0da537bb00f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf5804e38259ad49ad6154f913af940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23acac45228a9f94cbca3f9187fe1849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_14
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d61b03f682a54695e99ec968dd0f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 12
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ea07eba09662c42970cf5e0e9c7462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c2bb145b8cbc5449b69b61eb75a25b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_19
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7cdb02dbef114c96e5943fb82c39f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_21
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16652ccc2322c24496dc5032e70ff2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_23
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dba73c24e3b684ea70c4cbdf5a9235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_25
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f36d6068b73994f9ffbe16aa732f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_26
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebfc049d631895448ebaf1743bcde6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_28
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffefd2a052f0b943a7590dea90d02eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_30
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe986a3d89005a44a9c20471676f3b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_32
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 11
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd14eaf7f01f17144a0455ff671f6668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_33
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 12
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227934140f3e565438349d52b34d69b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_34
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4f502abdf18543b928e0bcf56d40f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_36
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcfd8e7a70f73645990ad0a4b9db4fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_38
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8d1664e9780e74a992aa4d90f3960b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_39
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29041c3788067d04782cd23e2377ad94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_41
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d615504103c88ad45a2090b98a24ab10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peggy Run and Reload_43
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 11
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bcdbc2185ba4f4fb0a11189d93b4cd
       vertices: []
       indices: 
       edges: []
@@ -665,9 +686,9 @@ TextureImporter:
       name: Peggy Run and Reload_44
       rect:
         serializedVersion: 2
-        x: 1806
+        x: 1818
         y: 12
-        width: 45
+        width: 58
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -676,7 +697,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53ffbde1dea171342a5f9eff59d9c4c6
+      spriteID: de4984008ef500949a033a696639847d
       vertices: []
       indices: 
       edges: []
@@ -685,9 +706,9 @@ TextureImporter:
       name: Peggy Run and Reload_45
       rect:
         serializedVersion: 2
-        x: 1866
+        x: 1878
         y: 11
-        width: 45
+        width: 58
         height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -696,7 +717,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d135c2a4d02011a48aa942df61a4d4d7
+      spriteID: b32819eb72b53004bac3284874388f1f
       vertices: []
       indices: 
       edges: []
@@ -705,9 +726,9 @@ TextureImporter:
       name: Peggy Run and Reload_46
       rect:
         serializedVersion: 2
-        x: 1926
+        x: 1938
         y: 11
-        width: 45
+        width: 58
         height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -716,7 +737,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7ab4d60febe261449a74815ae2ab0c4
+      spriteID: 453e97260ea349d4985c1ac4f452988f
       vertices: []
       indices: 
       edges: []
@@ -725,9 +746,9 @@ TextureImporter:
       name: Peggy Run and Reload_47
       rect:
         serializedVersion: 2
-        x: 1986
+        x: 1998
         y: 11
-        width: 43
+        width: 58
         height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -736,7 +757,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53095bd43fb92d04d9d6fd6eb2969a4f
+      spriteID: b626969cfcaf5ba4fa4dbb2dd1e1888b
       vertices: []
       indices: 
       edges: []
@@ -745,9 +766,9 @@ TextureImporter:
       name: Peggy Run and Reload_48
       rect:
         serializedVersion: 2
-        x: 2044
+        x: 2056
         y: 11
-        width: 45
+        width: 58
         height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -756,7 +777,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c4e6b3a68732cf4795a0630ec6557d4
+      spriteID: 18bdff508ad2d9340be053e902cfef47
       vertices: []
       indices: 
       edges: []
@@ -765,9 +786,9 @@ TextureImporter:
       name: Peggy Run and Reload_49
       rect:
         serializedVersion: 2
-        x: 2104
+        x: 2116
         y: 11
-        width: 45
+        width: 58
         height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -776,7 +797,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45782e3ccf4dca94585f9603b1d31dbc
+      spriteID: bd75449c9afa5764fb941472079a3db1
       vertices: []
       indices: 
       edges: []
@@ -785,9 +806,9 @@ TextureImporter:
       name: Peggy Run and Reload_50
       rect:
         serializedVersion: 2
-        x: 2164
+        x: 2176
         y: 12
-        width: 46
+        width: 58
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -796,7 +817,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24c56a3d1b9af394599a17560dceff6a
+      spriteID: 964ec9b1ccdfc3d41b8cfe51486dd92d
       vertices: []
       indices: 
       edges: []
@@ -805,9 +826,9 @@ TextureImporter:
       name: Peggy Run and Reload_51
       rect:
         serializedVersion: 2
-        x: 2225
+        x: 2237
         y: 12
-        width: 47
+        width: 58
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -816,7 +837,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8995f0022827eb49bf9613857d56731
+      spriteID: da475cfedb082ee4aa562212767b5846
       vertices: []
       indices: 
       edges: []
@@ -825,9 +846,9 @@ TextureImporter:
       name: Peggy Run and Reload_52
       rect:
         serializedVersion: 2
-        x: 2287
+        x: 2299
         y: 12
-        width: 46
+        width: 58
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -836,7 +857,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d066bab3784f43b4cb5a47bf993bd68c
+      spriteID: 4f9ba484942df8c4a8008d032011e27b
       vertices: []
       indices: 
       edges: []
@@ -845,9 +866,9 @@ TextureImporter:
       name: Peggy Run and Reload_53
       rect:
         serializedVersion: 2
-        x: 2348
+        x: 2360
         y: 12
-        width: 43
+        width: 58
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -856,7 +877,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c04ab6a95a204ab458ef51085813b3c8
+      spriteID: dcb73a6068aeab347a1649ae459e7a08
       vertices: []
       indices: 
       edges: []
@@ -865,9 +886,9 @@ TextureImporter:
       name: Peggy Run and Reload_54
       rect:
         serializedVersion: 2
-        x: 2406
+        x: 2418
         y: 12
-        width: 43
+        width: 58
         height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -876,7 +897,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb52a7c6e28621e45899d7280cd8dcb4
+      spriteID: fd308bb5452d91b4c8b3531df7ba1a4e
       vertices: []
       indices: 
       edges: []
@@ -884,7 +905,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4d6ed4e9b3d58f74091b915c473de843
+    spriteID: bef4a9cd7bd40a14ebe2a318a0a1cc1f
     vertices: []
     indices: 
     edges: []
