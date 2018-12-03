@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 820f8fec6c824694898c2ba86723439e
+guid: 27804f77668fdf140874578efc463abd
 TextureImporter:
   fileIDToRecycleName:
-    21300000: bomb animtion_0
-    21300002: bomb animtion_1
-    21300004: bomb animtion_2
-    21300006: bomb animtion_3
-    21300008: bomb animtion_4
-    21300010: bomb animtion_5
-    21300012: bomb animtion_6
-    21300014: bomb animtion_7
-    21300016: bomb animtion_8
-    21300018: bomb animtion_9
-    21300020: bomb animtion_10
-    21300022: bomb animtion_11
-    21300024: bomb animtion_12
-    21300026: bomb animtion_13
-    21300028: bomb animtion_14
-    21300030: bomb animtion_15
-    21300032: bomb animtion_16
-    21300034: bomb animtion_17
+    21300000: bomb idel_0
+    21300002: bomb idel_1
+    21300004: bomb idel_2
+    21300006: bomb idel_3
+    21300008: bomb idel_4
+    21300010: bomb idel_5
+    21300012: bomb idel_6
+    21300014: bomb idel_7
+    21300016: bomb idel_8
+    21300018: bomb idel_9
+    21300020: bomb idel_10
+    21300022: bomb idel_11
+    21300024: bomb idel_12
+    21300026: bomb idel_13
+    21300028: bomb idel_14
+    21300030: bomb idel_15
+    21300032: bomb idel_16
+    21300034: bomb idel_17
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -102,11 +102,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bomb animtion_0
+      name: bomb idel_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 25
+        x: 31
+        y: 18
         width: 36
         height: 43
       alignment: 0
@@ -116,17 +116,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 163e5f5ff44228a4696c924b7ab2e757
+      spriteID: d3ceee9b54f6e7d4daa7807915bfcacd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_1
+      name: bomb idel_1
       rect:
         serializedVersion: 2
-        x: 99
-        y: 25
+        x: 104
+        y: 18
         width: 36
         height: 43
       alignment: 0
@@ -136,17 +136,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d398d73b83e5ac14f9125136e22c24fa
+      spriteID: 7ec2ce3c10aa09747bafbc3088ca929e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_2
+      name: bomb idel_2
       rect:
         serializedVersion: 2
-        x: 136
-        y: 25
+        x: 176
+        y: 18
         width: 36
         height: 43
       alignment: 0
@@ -156,17 +156,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbe7c021ba44dd64f8328085243da57b
+      spriteID: 0684cab78be42f74c949f188c626802e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_3
+      name: bomb idel_3
       rect:
         serializedVersion: 2
-        x: 173
-        y: 25
+        x: 252
+        y: 18
         width: 40
         height: 43
       alignment: 0
@@ -176,17 +176,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95b2eac7e52c3d54bba9fd30a131f0b6
+      spriteID: 1e6a6b05b119e874cb0094e45adc7b09
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_4
+      name: bomb idel_4
       rect:
         serializedVersion: 2
-        x: 214
-        y: 25
+        x: 325
+        y: 19
         width: 46
         height: 43
       alignment: 0
@@ -196,17 +196,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f9495eb4da5bd449b131101337edd94
+      spriteID: 56f26311c8291914a9bd7945233dc3a0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_5
+      name: bomb idel_5
       rect:
         serializedVersion: 2
-        x: 261
-        y: 25
+        x: 398
+        y: 19
         width: 55
         height: 43
       alignment: 0
@@ -216,17 +216,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c26cd3c154628e14da608eeaf91f6972
+      spriteID: c4c4f5ea38cad6946b21b500537f8bf2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_6
+      name: bomb idel_6
       rect:
         serializedVersion: 2
-        x: 317
-        y: 25
+        x: 474
+        y: 19
         width: 66
         height: 43
       alignment: 0
@@ -236,17 +236,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 615305d95c8c489498e75e6f4cac16c0
+      spriteID: a9786f123bff9784f9935928ce7f6ebc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_7
+      name: bomb idel_7
       rect:
         serializedVersion: 2
-        x: 384
-        y: 25
+        x: 550
+        y: 19
         width: 72
         height: 43
       alignment: 0
@@ -256,17 +256,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9c2c5cd7bc3e0d46a1a84941f0e18b3
+      spriteID: de9141be68610524caf9aa66fc699f57
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_8
+      name: bomb idel_8
       rect:
         serializedVersion: 2
-        x: 457
-        y: 25
+        x: 643
+        y: 19
         width: 72
         height: 43
       alignment: 0
@@ -276,17 +276,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c4f294e2a9d48e4eb39873df33701da
+      spriteID: f43f29b96d4ed8a479e8c7b3d9f60c80
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_9
+      name: bomb idel_9
       rect:
         serializedVersion: 2
-        x: 530
-        y: 25
+        x: 743
+        y: 19
         width: 72
         height: 43
       alignment: 0
@@ -296,17 +296,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38538858c1c07b641b6b88bd820d65f9
+      spriteID: 3df48248c97591246acd926ebb94cf94
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_10
+      name: bomb idel_10
       rect:
         serializedVersion: 2
-        x: 603
-        y: 25
+        x: 842
+        y: 19
         width: 72
         height: 43
       alignment: 0
@@ -316,17 +316,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0039faa00cb6c7b478e825e3224235d5
+      spriteID: c9b2be626d52cda4584a4fc2a5c880cb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_11
+      name: bomb idel_11
       rect:
         serializedVersion: 2
-        x: 676
-        y: 25
+        x: 942
+        y: 19
         width: 72
         height: 43
       alignment: 0
@@ -336,17 +336,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 726940297a6a28840b7eb51a361de085
+      spriteID: a41f9c09dbc2ba241a151c5630519912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_12
+      name: bomb idel_12
       rect:
         serializedVersion: 2
-        x: 749
-        y: 25
+        x: 1041
+        y: 19
         width: 72
         height: 43
       alignment: 0
@@ -356,17 +356,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36873dd713f5089429da4f1c27689ab0
+      spriteID: a132cbbc30d1d3849b30776f14de2493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_13
+      name: bomb idel_13
       rect:
         serializedVersion: 2
-        x: 822
-        y: 25
+        x: 1148
+        y: 19
         width: 72
         height: 43
       alignment: 0
@@ -376,17 +376,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a6dead6a30d98049894ca8750f466d5
+      spriteID: 4de7df7305f43144baea51d3b0e87214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_14
+      name: bomb idel_14
       rect:
         serializedVersion: 2
-        x: 895
-        y: 25
+        x: 1245
+        y: 19
         width: 72
         height: 43
       alignment: 0
@@ -396,17 +396,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76f0e7af2129f654ebf955e238a964ce
+      spriteID: a29b2001b23e4bf479f972992149db9f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_15
+      name: bomb idel_15
       rect:
         serializedVersion: 2
-        x: 968
-        y: 25
+        x: 1346
+        y: 19
         width: 66
         height: 43
       alignment: 0
@@ -416,17 +416,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a875ab8b687dc5d41a7168debaaf0209
+      spriteID: bf6d068519b63a7408da5188dbd56470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_16
+      name: bomb idel_16
       rect:
         serializedVersion: 2
-        x: 1035
-        y: 25
+        x: 1442
+        y: 19
         width: 55
         height: 43
       alignment: 0
@@ -436,17 +436,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3c2bdca390d0714e93e67ae5bd222cd
+      spriteID: f74a7bc3ea9f58a4da446816b06a11d4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bomb animtion_17
+      name: bomb idel_17
       rect:
         serializedVersion: 2
-        x: 1091
-        y: 25
+        x: 1516
+        y: 19
         width: 40
         height: 43
       alignment: 0
@@ -456,7 +456,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3788832559f3d7943b42a483344060c5
+      spriteID: 004d9946a7326df469f90def59c465ef
       vertices: []
       indices: 
       edges: []
@@ -464,7 +464,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: e1887dac56210c54f92a27d30648e161
+    spriteID: 7e1ae1f58a93b514b9ad0c88ffcaffae
     vertices: []
     indices: 
     edges: []
